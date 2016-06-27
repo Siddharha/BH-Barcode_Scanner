@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BH-Barcode Scanner</string>
+    <string name="barcode_image">Barcode Image</string>
+    <string name="barcode_result">BarCode result</string>
+    <string name="scan">Scan</string>
+
+
+</resources>
